@@ -1,0 +1,12 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+.idea/
+.vscode/
+*.swp
+
+*.test
